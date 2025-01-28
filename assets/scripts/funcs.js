@@ -1,9 +1,9 @@
 const isLoginUser = (user) => {
-  return true
+    return true
 }
 
 const summer = (...numbers) => {
-  return numbers.reduce((prev,current) => {
-    return prev+ cureent
-  })
+    return numbers.reduce((prev, current) => {
+        return prev + current
+    })
 }
