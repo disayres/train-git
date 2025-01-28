@@ -1,0 +1,89 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Coverage directory for testing
+coverage/
+
+# Dependency directories
+bower_components/
+
+# JetBrains IDEs
+*.iml
+*.ipr
+*.iws
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.class
+*.log
+*.hprof
+
+# Ruby
+*.gem
+*.rbc
+*.bundle
+log/
+tmp/
+vendor/
+
+# Other
+*.class
+*.o
+*.so
+*.exe
+*.dll
+*.obj
+*.pdb
+*.idb
+*.idc
+
+# Custom
+# Add any other files or directories specific to your project here
